@@ -1,3 +1,5 @@
 * Spring 2022 - John Zhou
 * GitHub username: johnzhou1210
 * This is for recitation notes
+
+g++ -MM *cpp
