@@ -3,3 +3,5 @@
 * This is for recitation notes
 
 g++ -MM *cpp
+The Mythical Man Month Freed Brooks
+
